@@ -1,4 +1,4 @@
-# React hot or cold solution
+# Reed's React hot or cold solution
 
-[GitHub](https://github.com/Thinkful-Ed/react-hot-cold)
+[Reed's GitHub repo](https://github.com/rbertolette/react-hot-cold-test.git)
 
